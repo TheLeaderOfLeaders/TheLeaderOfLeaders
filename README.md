@@ -1,7 +1,8 @@
 ### Hi there, I am LeanDev (aka Tasos) 👋
 
-<p align="center"><img src="https://profile-counter.glitch.me/TasosY2K/count.svg" /></p>
+<p align="center">⬇️ <strong>This is how many people have visited my account</strong> ⬇️<br><img src="https://profile-counter.glitch.me/TasosY2K/count.svg" /></p>
 
+## 📈 Statistics
 <a href="https://github.com/TasosY2K?tab=repositories">
   <img align="left" src="https://readme.edpasenidis.tech/api?username=TasosY2K&show_icons=true&theme=radical"/>
 </a>
