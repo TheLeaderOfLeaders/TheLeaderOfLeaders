@@ -17,7 +17,7 @@
 <br></br>
 
 ## ☎️ Contact Info
-- You can contact me on,
+ You can contact me on,
 - [my e-mail](mailto:gustavolama20@gmail.com)
 - [my Discord server](https://discord.gg/SntehJ4)
 - my Discord account - **(Lean)#2001**
